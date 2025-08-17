@@ -1,5 +1,11 @@
 # IncreaseCounter
 
+## Project ID:
+ST29BB7SQJC7AYVCDYG94KXFYR3HW0ADDKPTNTSC.counter
+
+<img width="2879" height="1588" alt="image" src="https://github.com/user-attachments/assets/84ddec1c-b42c-42d1-9683-78d0630a9347" />
+
+
 ## Project Description
 
 IncreaseCounter is a simple Clarity smart contract that demonstrates a basic on-chain counter. Users can increment the counter and view its current value.
@@ -43,3 +49,4 @@ clarinet test
 ## Planned Improvement
 
 We will improve the contract by adding events that emit whenever the counter is incremented or decremented. This will make it easier to track changes to the counter state.
+
