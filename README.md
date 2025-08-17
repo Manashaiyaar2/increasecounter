@@ -1,9 +1,10 @@
 # IncreaseCounter
 
 ## Project ID:
-ST29BB7SQJC7AYVCDYG94KXFYR3HW0ADDKPTNTSC.counter
+STNGFZR70TJWVP669RK6EP3E452ZFBCYM3E8P1G7.counter
 
-<img width="2879" height="1588" alt="image" src="https://github.com/user-attachments/assets/84ddec1c-b42c-42d1-9683-78d0630a9347" />
+<img width="2857" height="1588" alt="image" src="https://github.com/user-attachments/assets/0309d447-df90-4993-befa-bc6fce8a2d1a" />
+
 
 
 ## Project Description
@@ -49,4 +50,5 @@ clarinet test
 ## Planned Improvement
 
 We will improve the contract by adding events that emit whenever the counter is incremented or decremented. This will make it easier to track changes to the counter state.
+
 
